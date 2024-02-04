@@ -1,0 +1,24 @@
+#+title: Data Files
+
+* Licences
+
++ Mini-glossary (=glossary.json=)
+
+  Sourced from https://www.json.org/example.html, unlicenced but likely to small
+  for a licence to matter (45 "words" in total).
+
++ Iris (=iris.csv= and variants)
+
+  Sourced from https://archive.ics.uci.edu/dataset/53/iris.
+
+  This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
++ Eurostat grid (=grid_100km_surf.gpkg=)
+
+  Sourced from https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/grids.
+
+  Copyright notice: https://ec.europa.eu/eurostat/about-us/policies/copyright.
+
++ Lighthouse image (=lighthouse.*=)
+
+  Kodak "Lossless True Color" test image, sourced from https://r0k.us/graphics/kodak/kodim21.html.
