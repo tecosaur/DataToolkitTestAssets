@@ -1,0 +1,9 @@
+#+title: DataToolkit.jl test data files
+#+author: tecosaur
+
+Testing the set of data transformers implemented in [[https://github.com/tecosaur/DataToolkitCommon.jl][DataToolkitCommon.jl]]
+requires a set of data files.
+
+We could simply find odd links to files on the internet, but that risks them
+changing or disappearing unexpectedly. Instead, we can try to find small test
+files and collect them here.
